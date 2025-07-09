@@ -12,6 +12,7 @@ public class AppGamingBasic {
 		var ContraGame = new ContraGame();
 		var gameRunner = new gameRunner(ContraGame);
 		gameRunner.run();
+		System.out.println("here's the main file");
 
 	}
 
